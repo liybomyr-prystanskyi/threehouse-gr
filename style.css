@@ -137,6 +137,7 @@ nav a:hover:after {width: 100%;}
     margin-top: 60px;
     margin-bottom: 120px;
     transition: all .2s;
+	background-color:#fff;
 }
 .first-button:hover {
     color: #fff;
@@ -310,6 +311,7 @@ nav a:hover:after {width: 100%;}
     margin-top: 60px;
     margin-bottom: 20px;
     transition: all .2s;
+	background-color:#fff;
 }
 .second-button:hover{
 
